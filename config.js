@@ -13,6 +13,6 @@ const CONFIG = {
     reply: 'Hết là hết thôi',
     mess: 'T bt ngay mà',
     messDesc: 'Nói sự thật với nó đi',
-    btnAccept: ',ok
+    btnAccept: 'ok',
     messLink: https://www.facebook.com/messages/t/100056111597118
 }
