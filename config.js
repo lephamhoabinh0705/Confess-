@@ -12,5 +12,5 @@ const CONFIG = {
     reply: 'Hết thì hết thôi không có lí do',
     mess: 'Tao bt mà ',
     messDesc: 'Nói với nó đi',
-    btnAccept: 'Ok',
+    btnAccept: 'ok',
 }
