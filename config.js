@@ -1,19 +1,19 @@
 const CONFIG = {
     titleWeb: "Tiêu đề web",
-    introTitle: 'Chi ơi tao hỏi mày cái này nhá',
-    introDesc: `Phải trả lời thật nha.Thoát ra hoặc ko trả lời là đúng đó`,
+    introTitle: 'Chi ơi t hỏi cái này.Phải trả lời thật nha',
+    introDesc: `Thoát ra hoặc không trả lời là có đó`,
     btnIntro: 'Ok',
-    title: 'Mày hết yêu dũng rồi à',
-    desc: 'Đúng không ',
+    title: 'Phải chăng mày đã hết yêu Dũng',
+    desc: 'Phải không ',
     btnYes: 'Đúng vậy',
-    btnNo: 'Vẫn yêu mà',
-    question: 'Sao lại thế',
+    btnNo: 'Còn mà ',
+    question: 'Tại sao thế',
     btnReply: 'Gửi cho Dũng',
-    reply: 'Hết thì hết thôi',
-    mess: 'Mình biết mà.Nói với nó đi',
-    messDesc: 'Nhanh lên',
+    reply: 'Vì t ko thích nó nx',
+    mess: 'T bt ngay mà',
+    messDesc: 'Nói với nó đi',
     btnAccept: 'Ok',
-    messLink: 'https://www.facebook.com/messages/t/100056111597118
+    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
     
 
