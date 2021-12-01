@@ -13,7 +13,7 @@ const CONFIG = {
     mess: 'Mình biết mà.Nói với nó đi',
     messDesc: 'Nhanh lên',
     btnAccept: 'Ok',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/messages/t/100056111597118
 }
     
 
