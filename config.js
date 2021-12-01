@@ -13,5 +13,4 @@ const CONFIG = {
     mess: 'Tao bt mà ',
     messDesc: 'Nói với nó đi',
     btnAccept: 'Ok',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
