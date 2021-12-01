@@ -1,10 +1,10 @@
 const CONFIG = {
     titleWeb: "Hello",
     introTitle: 'Chi ơi tao hỏi mày cái này nhá',
-    introDesc: `Phải trả lời thật lòng nhá.Ko trả lời hoặc thoát ra là có đó `,
+    introDesc: `Phải trả lời thật lòng nhá.Ko trả lời hoặc thoát ra là có đó`,
     btnIntro: '^^ok^^',
     title: 'Mày không yêu Dũng đúng không',
-    desc: 'Phải kooooooooooo ',
+    desc: 'Phải kooooooooooo',
     btnYes: 'Đúng vậy <33',
     btnNo: 'Có chứ vẫn yêu nhiều lắm',
     question: 'Tại sao vậy <3',
