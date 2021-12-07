@@ -10,7 +10,7 @@ const CONFIG = {
     question: 'Sao chị thích em thế :v',
     btnReply: 'Gửi cho em',
     reply: 'Vì em đẹp trai đóoooooo',
-    mess: 'Vậy thì nhắn tin cho em đi còn gì nữa ',
+    mess: 'Vậy thì nhắn tin cho em đi còn gì nữa',
     messDesc: 'Nhanh lênnnn',
     btnAccept: 'Ok luôn',
     messLink: 'https://www.facebook.com/messages/t/100070125068608',
